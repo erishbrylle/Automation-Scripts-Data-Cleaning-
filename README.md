@@ -18,11 +18,11 @@ This repo contains reusable scripts that:
 
 ---
 
-## How to use
+## 🚀 How to use
 1. Clone the repository:
 git clone https://github.com/yourusername/data-cleaning-python.git
 
-2. Install dependencies: pip install -r requirements.txt
+2. Install dependencies: pip install pandas numpy
 
 3. Place your raw CSV files in `data/raw/`.
   
@@ -30,7 +30,7 @@ git clone https://github.com/yourusername/data-cleaning-python.git
 
 ---
 
-## Steps in the script
+## ⚙ Steps in the script
 
 1. Load Dataset
 Reads the raw CSV from the Data/Raw/ folder.
@@ -63,5 +63,5 @@ Displays summary statistics for both numeric and categorical columns.
 
 ---
 
-## Sample Data Source
+## 📊 Sample Data Source
 https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning
