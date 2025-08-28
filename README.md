@@ -14,7 +14,19 @@ This repo contains reusable scripts that:
 
 ## 🛠 Tools & Tech
 - Python (Pandas, NumPy)  
-- Optional: SQL for database cleanup  
+- Optional: SQL for database cleanup
+
+---
+
+## How to use
+1. Clone the repository:
+git clone https://github.com/yourusername/data-cleaning-python.git
+
+2. Install dependencies: pip install -r requirements.txt
+
+3. Place your raw CSV files in `data/raw/`.
+  
+4. Run the notebook or scripts to clean data and save outputs to `data/clean/`.
 
 ---
 
